@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "test_local": "mocha subchainProtocolBase.test_local.js",
-      "test_rinkeby": "node subchainProtocolBase.test_rinkeby.js"
+    "test_local": "mocha subchainProtocolBase.test_local.js",
+    "test_rinkeby": "node subchainProtocolBase.test_rinkeby.js"
   },
   "author": "",
   "license": "ISC",
